@@ -48,3 +48,4 @@ sed -i 's/.*/YOUR_PROVER_ID/' .nexus/prover-id
 - After some times, u will see that, your CLI nexus points will also be displayed on [Nexus Beta Website](https://beta.nexus.xyz/) upon clicking `Profile` section
 
 ![image](https://github.com/user-attachments/assets/9f0eba4d-d218-4dc6-b396-b1aab84bc0cb)
+.
